@@ -1,5 +1,7 @@
 import Header from "../../components/Header";
 import { Box } from "@mui/material";
+import React from 'react'
+
 const Dashboard = () => {
   return (
     <Box m="20px">
