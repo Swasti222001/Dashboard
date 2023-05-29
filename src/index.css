@@ -5,8 +5,8 @@ body,
 #root,
 .app,
 .content {
-  color:#000;
-  height:100%;
+  /* color:#000; */
+  /* height:100%; */
   width: 100%;  
   font-family: 'Source Sans Pro' , sans-serif;
 }
